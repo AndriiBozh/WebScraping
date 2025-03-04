@@ -1,0 +1,5 @@
+# 'find_this' => we can name this whatever we like. This will
+#  be a key in a document, which we'll get in 'value' variable from 'extract_value()' function
+find_this:
+#  this css selector id is found on a webpage which we are scraping
+  css: '#displaytimer'
